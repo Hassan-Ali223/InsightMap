@@ -23,7 +23,7 @@ InsightMap is a smart location-based search assistant powered by Google Maps API
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Rionte/SmartAlarm.git
+git clone https://github.com/Hassan-Ali223/SmartAlarm.git
 cd SmartAlarm  # or your correct folder
 ```
 pip install -r requirements.txt
